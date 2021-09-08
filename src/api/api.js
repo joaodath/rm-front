@@ -1,5 +1,5 @@
 export const Api = {
-	baseUrl: "http://localhost:7000",
+	baseUrl: "https://rmback.herokuapp.com",
 
 	createUrl: () => Api.baseUrl + "/characters",
 
